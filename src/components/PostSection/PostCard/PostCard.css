@@ -4,3 +4,21 @@
 .card img {
   height: 220px;
 }
+.footer-info img {
+  height: 48px;
+  width: 48px;
+  border-radius: 50%;
+}
+.footer-info h4 {
+  font-size: 18px;
+  font-weight: 600;
+}
+.footer-info button {
+  background: #edeef0;
+  border: none;
+  padding: 2px 7px;
+}
+.card-text {
+  font-size: 19px;
+  color: #5c5c5c;
+}
