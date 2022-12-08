@@ -1,0 +1,21 @@
+.bannar-content h1 {
+  position: absolute;
+  width: 478px;
+  height: 47px;
+  left: 200px;
+  top: 258px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+}
+.bannar-content p {
+  position: absolute;
+  width: 327px;
+  height: 23px;
+  left: 242px;
+  top: 309px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+}

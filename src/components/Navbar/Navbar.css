@@ -1,0 +1,11 @@
+.nav-input {
+  width: 360px;
+
+  border-radius: 21px;
+}
+.nav-input input {
+  background: #f2f2f2;
+}
+.navbar-main {
+  padding: 25px 72px;
+}
